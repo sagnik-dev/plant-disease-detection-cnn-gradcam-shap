@@ -17,19 +17,19 @@ Part 4 → Deployment (Gradio Web App)
 # 🧪 PROCESS
 
 ## 1️⃣ Dataset Preparation
-![Data Preprocessing](Your paragraph text.png)
+![Data Preprocessing](README_Package/Dataset_Preparation.png)
 
 ## 2️⃣ Custom CNN Architecture
-![CNN Architecture](Screenshot 2025-11-20 103315.png)
+![CNN Architecture](README_Package/CNN_Architecture.png)
 
 ## 3️⃣ Explainable AI Outputs
-![Explainability](Screenshot 2025-11-20 101127.png)
+![Explainability](README_Package/AI_Outputs.png)
 
 ## 4️⃣ Deployment Flow
 ![Deployment](README_Package/Deployment_Flow.png)
 
 ## 5️⃣ Full Pipeline
-![Pipeline](ac85d3b3-494c-4f0d-aee6-029c15a52e0c.png)
+![Pipeline](README_Package/Pipeline.png)
 
 ---
 
